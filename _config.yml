@@ -22,11 +22,6 @@ search: true
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 
-# Outputting
-permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-
 include:
   - _pages
 
@@ -58,17 +53,6 @@ author:
       url: "x"
 
 defaults:
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-  # _pages
   - scope:
       path: "_pages"
       type: pages
