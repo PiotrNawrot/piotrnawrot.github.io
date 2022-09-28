@@ -50,6 +50,12 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
+    - label: "Linkedin"
+      icon: "fa fa-fw fa-linkedin-square"
+      url: "x"
+    - label: "Scholar"
+      icon: ""
+      url: "x"
 
 defaults:
   - scope:
