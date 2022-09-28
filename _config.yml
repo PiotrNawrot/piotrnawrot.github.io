@@ -15,10 +15,6 @@
 # in the templates via {{ site.myvariable }}.
 title: Piotr Nawrot 
 email: p.nawrot99@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Kocham Fele i moja corke Oliwie
-twitter_username: p_nawrot 
-github_username: PiotrNawrot 
 minimal_mistakes_skin: "air" 
 search: true
 
@@ -34,18 +30,6 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 include:
   - _pages
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
@@ -56,24 +40,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Piotr Nawrot"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Kocham Fele i moja corke Oliwie"
-  links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
-
-footer:
+  bio    : "ToDo"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -81,12 +50,8 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
 
 defaults:
-  # _posts
   - scope:
       path: ""
       type: posts
@@ -104,10 +69,3 @@ defaults:
     values:
       layout: single
       author_profile: true
-
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
