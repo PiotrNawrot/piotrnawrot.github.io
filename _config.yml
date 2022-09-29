@@ -34,10 +34,10 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Piotr Nawrot"
-  avatar : "files/bio_photo.jpg"
-  bio    : "ToDo"
-  email  : piotr.nawrot@ed.ac.uk 
+  name             : "Piotr Nawrot"
+  avatar           : "files/bio_photo.jpg"
+  email            : piotr.nawrot@ed.ac.uk 
+  location         : "Edinburgh, Scotland"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
