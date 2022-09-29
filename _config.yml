@@ -46,7 +46,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/PiotrNawrot"
     - label: "Linkedin"
-      icon: "fa fa-linkedin-square"
+      icon: "fa fa-linkedin"
       url: "https://www.linkedin.com/in/piotr-nawrot/"
 
 defaults:
