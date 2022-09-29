@@ -2,7 +2,7 @@ main:
   - title: "Home"
     url: /
   - title: "Publications"
-    url: /publications/
+    url: https://scholar.google.com/citations?user=9wrNHUQAAAAJ&hl
   - title: "Invited talks"
     url: /talks/
   - title: "Resume"
