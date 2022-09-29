@@ -36,6 +36,7 @@ plugins:
 author:
   name             : "Piotr Nawrot"
   avatar           : "files/bio_photo.jpg"
+  bio              : ""
   email            : piotr.nawrot@ed.ac.uk 
   location         : "Edinburgh, Scotland"
   links:
