@@ -36,7 +36,7 @@ plugins:
 
 author:
   name   : "Piotr Nawrot"
-  avatar : "assets/images/bio-photo.jpg"
+  avatar : "files/bio_photo.jpg"
   bio    : "ToDo"
   links:
     - label: "Twitter"
