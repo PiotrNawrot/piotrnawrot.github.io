@@ -40,16 +40,16 @@ author:
   email            : piotr.nawrot@ed.ac.uk 
   location         : "Edinburgh, Scotland"
   links:
-    - label: "Twitter"
+    - label: " Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/p_nawrot"
-    - label: "GitHub"
+    - label: " GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/PiotrNawrot"
-    - label: "Linkedin"
+    - label: " Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/piotr-nawrot/"
-    - label: "Email"
+    - label: " Email"
       icon: "fas fa-fw fa-envelope-square"
       
 defaults:
