@@ -1,6 +1,6 @@
 ---
 permalink: /talks/
-title: "Invited talks"
+title: "Talks"
 ---
 
 | Title | Institute | Date | Video | Slides |
