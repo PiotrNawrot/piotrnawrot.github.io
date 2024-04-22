@@ -5,7 +5,7 @@ title: "Talks"
 
 | Title | Institute | Date | Video | Slides |
 | :--- | :--- | :----: | :---: | :---: |
-| Dynamic Memory Compression: Retrofitting LLMs for Accelerated Inference | Mila/McGill NLP RG | 22 Apr 2024 | | |
+| Dynamic Memory Compression: Retrofitting LLMs for Accelerated Inference | McGill NLP | 22 Apr 2024 | | |
 | | ServiceNow | 4 Apr 2024 | | |
 | | University of Edinburgh | 4 Apr 2024 | | |
 | Efficient Transformers with Dynamic Token Pooling | ACL 2023 | 11 Jul 2023 | [Link](https://www.youtube.com/watch?v=wQb6UbgjoK0) | [Link](https://www.canva.com/design/DAFk366ftho/6bh2EFGryZYvjMzApyFfyA/edit?utm_content=DAFk366ftho&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) |
